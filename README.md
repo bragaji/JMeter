@@ -10,7 +10,6 @@ This repository contains performance and functional test plans for **RESTful and
 .
 ├── REST_API_Test.jmx     # RESTful API test plan using GET, POST, PUT, DELETE
 ├── SOAP_API_Test.jmx     # SOAP XML Request test plan
-├── screenshots/          # UI screenshots of JMeter test plans
 └── README.md             # Project overview and setup instructions
 ```
 
@@ -57,7 +56,11 @@ This repository contains performance and functional test plans for **RESTful and
 
 | REST Test Plan Example |
 |------------------------|
-| ![REST UI](screenshots/jmeter_rest_ui.png) |
+| ![JMeter Rest API](https://github.com/user-attachments/assets/d1153197-72a9-4759-b7a6-dd49b1041d87) |
+
+| SOAP Test Plan Example |
+|------------------------|
+| ![SOAP_API Request](https://github.com/user-attachments/assets/977b6190-d937-4c89-8452-e69ce74d228e)|
 
 ---
 
@@ -81,6 +84,3 @@ This repository contains performance and functional test plans for **RESTful and
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
